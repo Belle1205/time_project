@@ -51,4 +51,7 @@
         </section>
         <script src="relogio teste.js"></script>
     </body>
+    
+<!--  Created by Anabelle de Moraes - All rights reserved -->
+    
 </html>
