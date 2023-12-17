@@ -98,3 +98,5 @@ if (userDateArray.length !== 2) {
         getRemainingTime();
     }
 }
+
+//  Created by Anabelle de Moraes - All rights reserved 
