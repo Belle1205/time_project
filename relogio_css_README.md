@@ -68,3 +68,5 @@ img {
 span {
     font-size: 10px;
 }
+
+/* Created by Anabelle de Moraes - All rights reserved */
